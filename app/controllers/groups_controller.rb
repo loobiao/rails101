@@ -21,7 +21,3 @@ def group_params
 end
 
 end
-
-
-
-end
